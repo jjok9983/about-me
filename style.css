@@ -67,3 +67,14 @@ body{
     margin: 2rem 0;   /*(바깥)여백 : 상하 기본값 2배수, 좌우 0*/
 }
 
+/*p350 미디어 쿼리 작성위치(보통 끝에 작성!!*/
+@media screen and (max-width : 480px) {
+    #moto {
+        width: 400px;
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 40px;
+        line-height: 26px;
+        font-size: 0.875rem;
+    }
+}
