@@ -68,9 +68,10 @@ body{
 }
 
 /*p350 미디어 쿼리 작성위치(보통 끝에 작성!!*/
+
 @media screen and (max-width : 480px) {
     #moto {
-        width: 400px;
+        width: 75%;
         background-size: contain;
         background-repeat: no-repeat;
         height: 40px;

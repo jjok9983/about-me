@@ -1,1 +1,1 @@
-alert(screen.availWidth);  //System.out.print("")와 같음
+//alert(screen.availWidth);  //System.out.print("")와 같음
